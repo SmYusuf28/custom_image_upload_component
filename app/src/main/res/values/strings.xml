@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImageUploadApp</string>
+    <string name="label_select_image">Select Image</string>
+    <string name="selected_file_none">Selected File: None</string>
+    <string name="selected_file_type">Selected File Type: None</string>
+    <string name="preview">Preview</string>
+    <string name="submit">Submit</string>
+</resources>
